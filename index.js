@@ -165,7 +165,75 @@
 // }
 // console.log(positive,negative);
 
-//23-masala
+// 16-misol
+
+// let a = +prompt('sonni kiriting');
+// let b = '';
+// if(a>=10 && a%2==0){
+//     console.log(b = 'true');
+// }else{
+//     console.log( b = 'false');
+// }
+
+// 17-misol
+// let a = +prompt('sonni kirit');
+// let b = a;
+// if(a>0){
+//     b= a+1;
+//     console.log( b)
+// }
+// else{
+//     console.log(b)
+// }
+
+// 18-misol
+// let a = +prompt('sonni kirit');
+// let b = a;
+// if(a>0){
+//     b= a+1;
+//     console.log( b)
+// }
+// else{
+//     b= a-2;
+//     console.log(b)
+// }
+
+// 19-misol
+// let a = +prompt('sonni kirit');
+// let b = a;
+// if(a>0){
+//     b= a+1;
+//     console.log( b)
+
+// }else if(
+//     a==0
+// ){
+//     b=10;
+//     console.log(b)
+// }
+// else{
+//     b= a-2;
+//     console.log(b)
+// }
+
+// 20 -misol
+// let a = +prompt(' a ni kirit');
+// let b = +prompt(' b ni kirit');
+// let c = +prompt(' c ni kirit');
+// let d = '';
+// if (a>0){
+//     d++;
+// }
+// if (b>0){
+//     d++;
+// }
+// if (c>0){
+//     d ++;
+// }
+
+// console.log("musbat sonlar soni :" +d);
+
+//28-masala
 // let a = 5;
 // let b = 7;
 // let c = 3;
@@ -189,7 +257,7 @@
 // let res = a + b + c - (max - min);
 // console.log(res);
 
-//24-masala
+//29-masala
 // let a = 5;
 // let b = 7;
 // let c = 3;
