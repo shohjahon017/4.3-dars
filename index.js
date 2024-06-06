@@ -124,3 +124,115 @@
 //     console.log(a + 10);
 //   }
 // }
+
+//14-masala
+// let a = +prompt("a sonni kiriting");
+// let b = +prompt(" b sonni kiriting");
+// let c = +prompt(" c sonni kiriting");
+// positive = 0;
+// negative = 0;
+// if (a > 0) {
+//   positive++;
+// }
+// if (b > 0) {
+//   positive++;
+// }
+// if (c > 0) {
+//   positive++;
+// }
+// console.log(positive);
+
+//15-masala
+// let a = +prompt("a sonni kiriting");
+// let b = +prompt(" b sonni kiriting");
+// let c = +prompt(" c sonni kiriting");
+// positive = 0;
+// negative = 0;
+// if (a > 0) {
+//   positive++;
+// } else (a < 0) {
+//     negative++;
+// }
+// if (b > 0) {
+//   positive++;
+// } else (a < 0) {
+//     negative++;
+// }
+// if (c > 0) {
+//   positive++;
+// } else (a < 0) {
+//     negative++;
+// }
+// console.log(positive,negative);
+
+//23-masala
+// let a = 5;
+// let b = 7;
+// let c = 3;
+
+// let min;
+// let max;
+
+// if (a < b) {
+//   min = a;
+//   max = b;
+// } else {
+//   min = b;
+//   max = a;
+// }
+// if (min > c) {
+//   min = c;
+// }
+// if (max < c) {
+//   max = c;
+// }
+// let res = a + b + c - (max - min);
+// console.log(res);
+
+//24-masala
+// let a = 5;
+// let b = 7;
+// let c = 3;
+
+// let min;
+// let max;
+
+// if (a < b) {
+//   min = a;
+//   max = b;
+// } else {
+//   min = b;
+//   max = a;
+// }
+// if (min > c) {
+//   min = c;
+// }
+// if (max < c) {
+//   max = c;
+// }
+// console.log(max, min);
+
+//30-masala
+// let a = 5;
+// let b = 7;
+// let c = 3;
+
+// let min;
+// let max;
+
+// if (a < b) {
+//   min = a;
+//   max = b;
+// } else {
+//   min = b;
+//   max = a;
+// }
+// if (min > c) {
+//   min = c;
+// }
+// if (max < c) {
+//   max = c;
+// }
+// let res = a + b + c - (max - min);
+// let res1 = a + b + c - (max - min) + max;
+// console.log(res, res1);
